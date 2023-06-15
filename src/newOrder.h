@@ -1,0 +1,2 @@
+ void checkNewOrderLoop();
+ void tonePlay();
